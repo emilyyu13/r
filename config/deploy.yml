@@ -7,7 +7,7 @@ image: emilyyu13/my-app
 # Deploy to these servers.
 servers:
   #- 192.168.0.1
-  - degym.jp
+  - 192.168.110.27
 
 # Credentials for your image host.
 registry:
